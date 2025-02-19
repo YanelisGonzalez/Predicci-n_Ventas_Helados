@@ -1,6 +1,6 @@
 # Predicción de Ventas de Helados 
 
-En este proyecto se utilizan técnicas de Machine Learning para desarrollar un modelo de regresión que predice las ventas de helados. A través del análisis de factores como la temperatura 🌡️, el día de la semana 📅, festivos 🎉, etc, se busca estimar la demanda de helados en función de variables externas.
+En este proyecto se utilizan técnicas de Machine Learning para desarrollar un modelo de regresión que predice las ventas de helados 🍦. A través del análisis de factores como la temperatura 🌡️, el día de la semana 📅, festivos 🎉, etc, se busca estimar la demanda de helados en función de variables externas.
 
 ## 📋 Tabla de Contenido
 
