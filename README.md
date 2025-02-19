@@ -21,7 +21,7 @@ El objetivo principal de este proyecto es predecir las ventas de helados utiliza
 - **Temperatura y condiciones meteorológicas** 🌡️☁️
 - **Día de la semana** 📅
 - **Festivos** 🎉
-- 
+  
 El mejor modelo entrenado para predecir ventas de helados aporta múltiples beneficios a nivel de negocio, entre ellos:
 
 1. Optimización de Inventarios y Producción: Permite anticipar la demanda, ayudando a ajustar la producción y evitar tanto excesos como faltantes de stock.
